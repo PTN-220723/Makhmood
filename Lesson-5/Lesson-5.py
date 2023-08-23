@@ -146,13 +146,13 @@
 #     print()
 
 
-from time import sleep
-
-# for i in range (10):
-#     print(f'\r{i}', end='')
-#     sleep(1)
-
-while True:
-    for i in '|\\-/':
-     print(f'\r{i}', end='')
-     sleep(1)
+# from time import sleep
+#
+# # for i in range (10):
+# #     print(f'\r{i}', end='')
+# #     sleep(1)
+#
+# while True:
+#     for i in '|\\-/':
+#      print(f'\r{i}', end='')
+#      sleep(1)
